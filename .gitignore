@@ -1,2 +1,5 @@
 venv_steam_server_inspect/
 .DS_Store
+venv/
+env/
+.venv/
